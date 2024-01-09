@@ -1,9 +1,5 @@
 hi
 i
 am 
-<<<<<<< HEAD
-ramukaka
-=======
 ragul
->>>>>>> 339c9aaf083cb9b130748ce4e382a99574b368aa
 mitra

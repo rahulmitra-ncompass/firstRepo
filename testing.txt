@@ -1,0 +1,7 @@
+ho
+<<<<<<< HEAD
+hi
+=======
+ho
+>>>>>>> d9afd62 (hiii)
+ho
